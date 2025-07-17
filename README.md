@@ -1,1 +1,5 @@
+
+Minishell 125/100
+
+
 valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes --suppressions=readline.supp ./minishell
