@@ -1,5 +1,5 @@
 
-Minishell 125/100 after 2 months of intense work and restarts
+🥳🥳 Minishell 125/100 after 2 months of intense work and restarts
 
 for leaks readline 
 
